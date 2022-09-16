@@ -3,6 +3,7 @@ import './App.css';
 import React from 'react'
 import Navbar from "./components/Navbar"
 import Card from "./components/Card"
+import Footer from "./components/Footer"
 import data from "./data"
 
 function App() {
@@ -15,12 +16,13 @@ function App() {
     )
 })
   return (
-    <div className="App">
+    <main>
       <Navbar />
       <section className="cards-list">
           {cards}
       </section>
-    </div>
+      <Footer />
+    </main>
   );
 }
 

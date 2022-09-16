@@ -1,16 +1,22 @@
 nav {
-  height: 50px;
-  background-color: #F55A5A;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 0.75rem 0;
+  background-color: #F55A5A;
+  gap: 0.5rem;
+  height: 3.5rem;
 }
 
 .nav--title {
   color: white;
   font-weight: 500;
-  font-size: 14.4608px;
+  line-height: 1em;
   letter-spacing: -0.075em;
-  margin-left: 7px;
-  opacity: 0.7;
+  font-size: 1.5rem;
+  margin: 0 0 0 0.5rem;
+}
+
+.nav--logo {
+  height: 1.5rem;
 }
