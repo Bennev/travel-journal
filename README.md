@@ -30,6 +30,7 @@ This is a solution to the [Solo project: Travel Journal on Scrimba](https://scri
 ### Links
 
 - Live Site URL: [@Netlify](https://travel-journal-bennev.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/9e9af82d-0571-448d-908a-5d121a4f2c9b/deploy-status)](https://app.netlify.com/sites/travel-journal-bennev/deploys)
 - Solution URL: [@GitHub](https://github.com/Bennev/travel-journal)
 
 ### Getting Started with Create React App
